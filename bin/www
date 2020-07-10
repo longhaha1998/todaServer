@@ -14,12 +14,12 @@ const path = require('path')
 
 
 /**
- * Get port from environment and store in Express.
+ * Get port from environment and store in Express. 
  */
 app.use(enforceHttps({
-  port: 8089
+  port: 3001
 }));
-var port = normalizePort('8089');
+var port = normalizePort('3001');
 // app.set('port', port);
 
 /**
