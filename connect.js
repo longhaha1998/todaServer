@@ -1,4 +1,4 @@
-const Mongoose = require('Mongoose')
+const Mongoose = require('mongoose')
 // const { model } = require('mongoose')
 
 // Mongoose.connect("mongodb://47.103.11.183:27017/todoApp",{useNewUrlParser:true,useUnifiedTopology:true}).then(res => {
